@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @angelaamm
+- 👋 Hi, I’m @angelaa mwangi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Python and R
 - 💞️ I’m looking to collaborate on ...Python projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...angela.m.mwangi@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...Elephants are scared of bees.
 
