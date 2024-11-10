@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angelaa mwangi
+- 👋 Hi, I’m @angela mwangi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...Python and R
 - 💞️ I’m looking to collaborate on ...Python projects
